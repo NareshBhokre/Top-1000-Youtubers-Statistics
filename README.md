@@ -17,8 +17,6 @@ Likes: Indicates the average number of "Likes" received on the streamer's videos
 
 Comments: Reflects the average number of comments left on the streamer's videos. Comments are an important form of audience interaction and participation.
 
-Links: Provides links or URLs to the streamer's YouTube channels, allowing direct access to their content.
-
 Potential Uses of the Dataset:
 
 Trend Analysis: The data can be used to identify emerging trends in the most popular content categories and the growth of new streamers on the platform.
