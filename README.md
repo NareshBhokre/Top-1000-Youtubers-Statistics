@@ -1,6 +1,9 @@
 # Top-1000-Youtubers-Statistics
 # About Project
 The dataset, obtained through data extraction from top YouTube streamers using the HypeAuditor platform, contains valuable information related to the presence and performance of these content creators on the world's largest video-sharing platform. Below is a description of each of the variables included in the dataset:
+# Tool Used
+1. Power BI
+2. Excel (Advance Level)
 # Step Performed
 1. Load and explore the dataset.
 2. Check for missing values, data types, and Outliers.
